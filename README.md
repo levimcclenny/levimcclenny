@@ -14,9 +14,9 @@ I'm interested in a swath of areas of computer science that aren't directly rela
 - Writing - Recently, I have been contributing to [d2l.ai](https://github.com/d2l-ai/d2l-en) with this knowledge of CV, Tensorflow, Distributed Computing, etc. The `d2l.ai` project is an open-source general purpose deep learning textbook covering topics from MLPs to attention mechanisms and online video processing. The textbook is being used at 140+ universities worldwide and is endorsed by high-profiles individuals to include Jensen Huang, CEO of Nvidia. Specifically, I have been contributing code snippets to the Tensorflow implementation of the concepts in the text, as well as contributing technical content on differences between code implementation in Tensorflow, Pytorch, and MXNet. 
 - Reviewing - I have taken part in many technical reviews of [Manning Publishing](https://www.manning.com/) books, to include texts on distributed computing and tensorflow, amongst others. Many are in early-stage writing, and technical reviews are anonymous, so I forgo listing specific texts for now. 
 
-
-[![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=levimcclenny&theme=dark&show_icons=true)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levimcclenny&theme=dark)]
+[![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=levimcclenny&theme=dark&show_icons=true)]
+
 
 
 <!--

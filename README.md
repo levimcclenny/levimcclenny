@@ -4,7 +4,7 @@ I'm currently a PhD Candidate in the Dept. of Electrical Engineering at Texas A&
 
 ## Research Interests 
 - Deep Learning - specifically Physics-Informed Machine Learning or Scientific Machine Learning. I'm fascinated by the intersection of Deep Learning and Physics. Recently I have been working on [algorithmic methodologies to improve training of PINNS](https://github.com/levimcclenny/SA-PINNs), as well as an open source software suite for [multi-GPU training of large problem domains for PINNS](http://docs.tensordiffeq.io)
-- Materials Informatics - A lot of my research is centered around materials applications. This is the main application domain of [TensorDiffEq](docs.tensordiffeq.com) as it stands, although it is applicable to any field of science. 
+- Materials Informatics - A lot of my research is centered around materials applications. This is the main application domain of [TensorDiffEq](http://docs.tensordiffeq.com) as it stands, although it is applicable to any field of science. 
 
 ## Other Interests
 I'm interested in a swath of areas of computer science that aren't directly related to my research, notable examples are:

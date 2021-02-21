@@ -20,7 +20,7 @@ I'm interested in a swath of areas of computer science that aren't directly rela
 
 ![levimcclenny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=levimcclenny&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levimcclenny&theme=vue-dark&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levimcclenny&hide=java,c++&theme=vue-dark&layout=compact&langs_count=8)
 
 <!--
 **levimcclenny/levimcclenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

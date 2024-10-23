@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently Sr. Datr Scientist at Booz Allen Hamilton. Most of what is on this Github site is related to my Ph.D. work, including my work in SA-PINNs and TensorDiffEq, which have a few hundred stars between them. The SA-PINNs paper has over 450 citations at the time of this writing. 
+I'm currently Sr. Data Scientist at Booz Allen Hamilton. Most of what is on this Github site is related to my Ph.D. work, including my work in SA-PINNs and TensorDiffEq, which have a few hundred stars between them. The SA-PINNs paper has over 450 citations at the time of this writing. 
 
 ## Research Interests 
 - Deep Learning - specifically Physics-Informed Machine Learning or Scientific Machine Learning. I'm fascinated by the intersection of Deep Learning and Physics. Recently I have been working on [algorithmic methodologies to improve training of PINNS](https://github.com/levimcclenny/SA-PINNs), as well as an open source software suite for [multi-GPU training of large problem domains for PINNS](http://docs.tensordiffeq.io)

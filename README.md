@@ -1,26 +1,24 @@
-### Hi there 👋
-
-I'm currently a Sr. Manager at Cisco, specializing in AI Infrastructure Solutions Engineering. Most of what is on this Github site is related to my Ph.D. work, including my work in SA-PINNs and TensorDiffEq, which have a few hundred stars between them. The SA-PINNs paper has over 1200 citations at the time of this writing. 
-
-## Research Interests 
-- Deep Learning - specifically Physics-Informed Machine Learning or Scientific Machine Learning. I'm fascinated by the intersection of Deep Learning and Physics. Recently I have been working on [algorithmic methodologies to improve training of PINNS](https://github.com/levimcclenny/SA-PINNs), as well as an open source software suite for [multi-GPU training of large problem domains for PINNS](http://docs.tensordiffeq.io)
-- Materials Informatics - A lot of my research is centered around materials applications. This is the main application domain of [TensorDiffEq](https://docs.tensordiffeq.io) as it stands, although it is applicable to any field of science. 
-
-## Other Interests
-I'm interested in a swath of areas of computer science that aren't directly related to my research, notable examples are:
-- Distributed computing - I love working in distributed environments. The Army Research Lab has granted me an Nvidia DGX Station for my research, which is a platform I use heavily to experiment and build in distributed environments
-- Compilers/IRs - I just find the intersection of hardware and software fascinating. Recently I have been digging into LLVM, MLIR, as well as implementation of assembly in various architectures to include MIPS, x86, and ARM. I'm mostly a high-level programming language guy (Python, R, etc) but I love learning more about the hardware interface, as well as how to take deep-learning implementations to the edge on 'micro' computing devices. Oftentimes these implementations must be executed eithout operating system oversight, and require creative programming
-- Computer Vision - early in my PhD I worked heavily in [computer vision with applications in materials informatics](https://github.com/levimcclenny/multimodal_transfer_learned_regression), and learned a lot about CV. 
-- Writing - Recently, I have been contributing to [d2l.ai](https://github.com/d2l-ai/d2l-en) with this knowledge of CV, Tensorflow, Distributed Computing, etc. The `d2l.ai` project is an open-source general purpose deep learning textbook covering topics from MLPs to attention mechanisms and online video processing. The textbook is being used at 140+ universities worldwide and is endorsed by high-profiles individuals to include Jensen Huang, CEO of Nvidia. Specifically, I have been contributing code snippets to the Tensorflow implementation of the concepts in the text, as well as contributing technical content on differences between code implementation in Tensorflow, Pytorch, and MXNet. 
-- Reviewing - I have taken part in many technical reviews of [Manning Publishing](https://www.manning.com/) books, to include texts on distributed computing and tensorflow, amongst others. Many are in early-stage writing, and technical reviews are anonymous, so I forgo listing specific texts for now. 
-
-
-
-![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=levimcclenny&theme=vue-dark&show_icons=true)
-
-![levimcclenny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=levimcclenny&theme=vue-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levimcclenny&hide=java,c++&theme=vue-dark&layout=compact&langs_count=8)
+Hi there 👋
+ 
+I lead AI infrastructure solutions engineering at Cisco, running a team that covers enterprise AI and GPU cloud accounts across the US West. I primarily focus on large buildouts: cluster and fabric design, capacity planning, and the business case to link the infrastructure to the funding. A lot of my time goes to the economics, because that's usually where the decision eventually ends up.
+ 
+I study technical specifics and read analyst reports on fabric architecture, serving stacks, the hardware and software boundary. Most of my job is spent designing buildouts or identifying benefits and drawbacks of AI infrastructure decisions. 
+ 
+Before Cisco I finished a PhD in physics-informed machine learning and spent four years in federal AI. Most of the code here is from that period.
+ 
+## Things I built
+ 
+**[SA-PINNs](https://github.com/levimcclenny/SA-PINNs)** - Self-adaptive physics-informed neural networks. This was the bulk of my dissertation work. Trainable adaptation weights applied per collocation point, so the network learns which regions of the solution are hard and concentrates there. The paper is at 1,250+ citations and the method has been picked up in several downstream PINN libraries.
+ 
+**[TensorDiffEq](https://docs.tensordiffeq.io/)** - Open source framework for multi-GPU training of PINNs over large problem domains. Built for scientific ML workloads that don't fit on one GPU, with materials applications as the primary target.
+ 
+**[Multimodal transfer-learned regression](https://github.com/levimcclenny/multimodal_transfer_learned_regression)** - Computer vision applied to materials property prediction.
+ 
+I contributed TensorFlow implementations and cross-framework technical content to [d2l.ai](https://github.com/d2l-ai/d2l-en), the open source deep learning textbook now adopted at 500 universities in 70 countries and published by Cambridge University Press.
+ 
+## Elsewhere
+ 
+Rated Army Reserve fixed-wing aviator. I've reviewed technical manuscripts for [Manning](https://www.manning.com/), mostly on distributed computing and TensorFlow.
 
 <!--
 **levimcclenny/levimcclenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
